@@ -1,0 +1,14 @@
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.csproj.AssemblyReference.cache
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.AssemblyInfo.cs
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.exe
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.deps.json
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.runtimeconfig.json
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.runtimeconfig.dev.json
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.dll
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.pdb
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.dll
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.pdb
+C:\Users\rcoutinho\source\repos\Mercadinho\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.genruntimeconfig.cache
